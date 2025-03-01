@@ -1,69 +1,76 @@
-# Welcome to your Lovable project
+Here is the updated README for your project:
 
-## Project info
+## README for CodeMentorX
 
-**URL**: https://lovable.dev/projects/1a8e48d2-9f16-45dc-af75-f516e4848491
+### Introduction
+CodeMentorX is an AI-driven coding mentorship platform that provides structured roadmaps for Data Structures and Algorithms (DSA) and competitive programming. The platform features AI-powered algorithm analysis, debugging, and time complexity evaluation, along with a Code Playground where users can input coding problems and experiment with solutions.
 
-## How can I edit this code?
+### Features
+- Structured roadmaps for DSA and competitive programming
+- AI-powered algorithm analysis
+- AI-assisted debugging
+- Time complexity evaluation
+- Code Playground for experimenting with coding problems
 
-There are several ways of editing your application.
+### Technical Stack
+- Frontend: React.js
+- Backend: Node.js
 
-**Use Lovable**
+### Installation
+To get started with CodeMentorX, follow these steps:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1a8e48d2-9f16-45dc-af75-f516e4848491) and start prompting.
+#### Prerequisites
+- Node.js (v14.x or higher)
+- npm (v6.x or higher)
 
-Changes made via Lovable will be committed automatically to this repo.
+#### Steps
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/bharath69848/HackIndia-Spark-1-2025-Cosmic-Coders.git
+    cd HackIndia-Spark-1-2025-Cosmic-Coders
+    ```
 
-**Use your preferred IDE**
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+4. Access the platform through your web browser at `http://localhost:3000`.
 
-Follow these steps:
+### Usage
+1. Navigate to the home page to explore structured roadmaps for DSA and competitive programming.
+2. Use the Code Playground to input coding problems and experiment with solutions.
+3. Analyze algorithms with the AI-powered tools for debugging and time complexity evaluation.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Contributing
+We welcome contributions to enhance the platform. Here are some ways you can contribute:
+- Report bugs and issues
+- Suggest new features
+- Improve documentation
+- Submit pull requests
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+#### Contributing Guidelines
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### Acknowledgements
+- Thanks to all contributors for their valuable input and efforts.
+- Special thanks to the HackIndia community for their support.
 
-**Edit a file directly in GitHub**
+### Contact
+For any inquiries or support, please contact:
+- Bharath: bharath@example.com
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1a8e48d2-9f16-45dc-af75-f516e4848491) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Feel free to review and suggest any changes.
