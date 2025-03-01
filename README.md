@@ -62,9 +62,6 @@ We welcome contributions to enhance the platform. Here are some ways you can con
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgements
 - Thanks to all contributors for their valuable input and efforts.
 - Special thanks to the HackIndia community for their support.
